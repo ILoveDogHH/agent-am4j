@@ -1,0 +1,13 @@
+com\cm4j\thread\ThreadPoolServiceTest.class
+com\cm4j\demo\SubClass.class
+com\cm4j\lock\LockerTest.class
+com\cm4j\singleton\impl\NormalSingletonModuleTest.class
+com\cm4j\util\PackageUtilTest.class
+com\cm4j\eval\JavaEvalDemo.class
+com\cm4j\lock\LockerTest$1.class
+com\cm4j\invoke\impl\TestRpcTest.class
+com\cm4j\lock\LockerTest$TTT.class
+com\cm4j\demo\Parent.class
+com\cm4j\hotswap\JavaAgentTest.class
+com\cm4j\registry\RegistryManagerTest.class
+com\cm4j\eval\JavaEvalUtilTest.class
